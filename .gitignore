@@ -1,0 +1,9 @@
+.venv/
+.idea/
+*.egg-info/
+__pycache__/
+*.pyc
+.env
+logs/
+Book_Dataset/
+books_recommender.zip

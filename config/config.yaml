@@ -1,0 +1,26 @@
+artifacts_config:
+  artifacts_dir: artifacts
+
+
+data_ingestion_config:
+  dataset_dir: Book_Dataset
+  books_file: BX-Books.csv
+  ratings_file: BX-Book-Ratings.csv
+  users_file: BX-Users.csv
+
+
+data_validation_config:
+  books_csv_file: BX-Books.csv
+  ratings_csv_file: BX-Book-Ratings.csv
+  users_csv_file: BX-Users.csv
+
+
+data_transformation_config:
+  min_user_ratings: 200
+  min_book_ratings: 45
+
+
+model_trainer_config:
+  n_neighbors: 6
+  algorithm: brute
+  metric: cosine
