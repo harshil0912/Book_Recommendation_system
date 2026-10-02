@@ -170,7 +170,7 @@ The implementation applies strict greater-than filters: users must have more tha
 
 ## KNN Learning Notes
 
-The conceptual KNN learning notes are kept in the separate [`ml_from_scratch`](https://github.com/harshil0912/ml_from_scratch) repository. This README documents how KNN is configured and used in this book recommendation project; it is not a replacement for those learning notes.
+The conceptual KNN learning notes are kept in the separate [`ml_from_scratch`](https://github.com/harshil0912/ml-from-scratch) repository. This README documents how KNN is configured and used in this book recommendation project; it is not a replacement for those learning notes.
 
 ## Troubleshooting
 
@@ -182,3 +182,5 @@ The conceptual KNN learning notes are kept in the separate [`ml_from_scratch`](h
 ## License
 
 See the repository's `LICENSE` file for licensing information.
+
+
